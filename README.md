@@ -1,1 +1,1 @@
-# historybro
+This generates browser history for Internet Explorer, Chrome, and Firefox on Windows. I made this quickly during a project that gathered browser objects as forensic data, not because I need fake browser history on my host machine. That being said, feel free to use it however you wish.
