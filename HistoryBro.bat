@@ -22,10 +22,10 @@ Taskkill /IM "iexplore.exe" /F
 START iexplore.exe https://www.reddit.com/
 TIMEOUT /T 2
 Taskkill /IM "iexplore.exe" /F
-START iexplore.exe https://www.google.com/?gws_rd=ssl#q=is+it+possible+to+love+your+girlfriend+too+much
+START iexplore.exe https://www.google.com/?gws_rd=ssl#q=who+would+win+in+a+fight+between+a+lemur+and+a+gibbon
 TIMEOUT /T 2
 Taskkill /IM "iexplore.exe" /F
-START iexplore.exe https://www.google.com/?gws_rd=ssl#q=how+to+be+a+great+dad
+START iexplore.exe https://www.google.com/?gws_rd=ssl#q=why+do+people+yawn
 TIMEOUT /T 2
 Taskkill /IM "iexplore.exe" /F
 START iexplore.exe http://www.theatlantic.com/
@@ -55,10 +55,10 @@ Taskkill /IM "firefox.exe" /F
 START firefox.exe https://www.reddit.com/
 TIMEOUT /T 2
 Taskkill /IM "firefox.exe" /F
-START firefox.exe https://www.google.com/?gws_rd=ssl#q=is+it+possible+to+love+your+girlfriend+too+much
+START firefox.exe https://www.google.com/?gws_rd=ssl#q=who+would+win+in+a+fight+between+a+lemur+and+a+gibbon
 TIMEOUT /T 2
 Taskkill /IM "firefox.exe" /F
-START firefox.exe https://www.google.com/?gws_rd=ssl#q=how+to+be+a+great+dad
+START firefox.exe https://www.google.com/?gws_rd=ssl#q=why+do+people+yawn
 TIMEOUT /T 2
 Taskkill /IM "firefox.exe" /F
 START firefox.exe http://www.theatlantic.com/
@@ -88,10 +88,10 @@ Taskkill /IM "chrome.exe" /F
 START chrome.exe https://www.reddit.com/
 TIMEOUT /T 2
 Taskkill /IM "chrome.exe" /F
-START chrome.exe https://www.google.com/?gws_rd=ssl#q=is+it+possible+to+love+your+girlfriend+too+much
+START chrome.exe https://www.google.com/?gws_rd=ssl#q=who+would+win+in+a+fight+between+a+lemur+and+a+gibbon
 TIMEOUT /T 2
 Taskkill /IM "chrome.exe" /F
-START chrome.exe https://www.google.com/?gws_rd=ssl#q=how+to+be+a+great+dad
+START chrome.exe https://www.google.com/?gws_rd=ssl#q=why+do+people+yawn
 TIMEOUT /T 2
 Taskkill /IM "chrome.exe" /F
 START chrome.exe http://www.theatlantic.com/
